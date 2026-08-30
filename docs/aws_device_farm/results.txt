@@ -1,0 +1,7 @@
+DarkDex Viewer Android 17 Device Farm Results
+Result: PASSED
+Devices: 4
+Google Pixel 10 | Android 17 | PASSED
+Google Pixel 6 Pro (Unlocked) | Android 17 | PASSED
+Google Pixel 8a | Android 17 | PASSED
+Google Pixel 9 Pro XL | Android 17 | PASSED
